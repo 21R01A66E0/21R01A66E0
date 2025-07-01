@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashanth Reddy
 - 👀 I’m interested in Full stack web development. 
 - 🌱 I’m currently learning Backend. 
-- 📫 How to reach me: gmail: prashanthreddyburra@gmail.com , Instagram: prashanthreddy_23
+- 📫 How to reach me: gmail: prashanthreddyburra@gmail.com , Instagram: prashanth_____23
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Coding is older than you think.
 - Very much interested in problem solving using cpp.
